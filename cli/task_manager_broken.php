@@ -64,7 +64,7 @@ function updateTask(&$tasks) {
     }
 }
 
-function deleteTask(&$tasks) {
+function deleteTask($tasks) {
     $id = readline("Enter Task ID to Delete: ");
 
     if (isset($tasks[$id])) {
