@@ -11,6 +11,21 @@
 
     
 
+    <form action="index.html" method="post">
+  <label>
+    Vārds:
+    <input type="text" name="Vārds" dirname="Vārds-dir" value="" />
+  </label>
+  <input type="submit" />
+</form>
+
+<form action="index.html" method="post">
+  <label>
+    E-pasts:
+    <input type="text" name="E-pasts" dirname="E-pasts-dir" value="" />
+  </label>
+  <input type="submit" />
+</form>
 
     <select name="select">
   <option value="first">Beginner</option>
