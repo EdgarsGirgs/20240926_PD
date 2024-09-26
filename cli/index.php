@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link href="style.css" rel="stylesheet" />
     <script scr="app.js"></script>
     
     <meta charset="UTF-8">
@@ -8,7 +9,7 @@
     <title>Document</title>
 </head>
 <body>
-    <button href ="blog.php">uz blog</button>
+    <a href="blog.php">iet uz blog</a>
     <h1>Piesakies webināram!”</h1>
    
 
