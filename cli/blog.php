@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+<button href ="index.php">uz index</button>
     <h1>Tiešsaistes dienasgrāmata</h1>
     <div></div>
     <h2>Biogrāfija</h2>
